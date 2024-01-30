@@ -2,7 +2,7 @@
 
 My name is Martin and here are some stuff about me:
 
-- I use Python, Lua, and learning how to do PHP
+- I Code in Lua, and Javascript!
 - I do web development as well
 - and school is boring
 
