@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-My name is Martin and here are some stuff about me:
+My name is Martin and I live in Reno NV here are some stuff about me:
 
-- I Code in Lua, and Javascript!
-- I do web development as well
-- and school is boring
+- I code in Lua, GML, and a few more
+- I am a game dev and love to make games
+- I have school and may not be active all the time!
 
 check out my [twitter](https://twitter.com/drwhomusteat)
+check out my games I made [here](https://drnightcrawler.itch.io/)
 
-and that it, thanks for reading!
+That is it thanks for reading my ReadMe!
