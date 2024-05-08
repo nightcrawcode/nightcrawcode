@@ -10,4 +10,6 @@ check out my [twitter](https://twitter.com/drwhomusteat)
 
 check out my games I made [here](https://drnightcrawler.itch.io/)
 
+And see where I am on https://linktr.ee/drwhomust
+
 That is it thanks for reading my ReadMe!
