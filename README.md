@@ -13,3 +13,5 @@ check out my games I made [here](https://drnightcrawler.itch.io/)
 And see where I am on https://linktr.ee/drwhomust
 
 That is it thanks for reading my ReadMe!
+
+[![Martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightcrawcode)](https://github.com/anuraghazra/github-readme-stats)
