@@ -2,7 +2,7 @@
 
 My name is Martin and I live in Reno NV here are some stuff about me:
 
-- I code in Lua, GML, and a few more
+- I code in Lua, GML, and javascript
 - I am a game dev and love to make games
 - I have school and may not be active all the time!
 
